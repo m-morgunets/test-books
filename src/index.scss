@@ -1,0 +1,64 @@
+@import-normalize;
+
+@font-face {
+  font-family: "Montserrat";
+  src: local("Montserrat Regular"), local("Montserrat-Regular"),
+    url(./assets/fonts/Montserrat-Regular.woff2) format("woff2"),
+    url(./assets/fonts/Montserrat-Regular.woff) format("woff"),
+    url(./assets/fonts/Montserrat-Regular.ttf) format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: local("Montserrat Medium"), local("Montserrat-Medium"),
+    url(./assets/fonts/Montserrat-Medium.woff2) format("woff2"),
+    url(./assets/fonts/Montserrat-Medium.woff) format("woff"),
+    url(./assets/fonts/Montserrat-Medium.ttf) format("truetype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: local("Montserrat Bold"), local("Montserrat-Bold"),
+    url(./assets/fonts/Montserrat-Bold.woff2) format("woff2"),
+    url(./assets/fonts/Montserrat-Bold.woff) format("woff"),
+    url(./assets/fonts/Montserrat-Bold.ttf) format("truetype");
+  font-weight: 700;
+}
+
+html {
+	box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+	-webkit-tap-highlight-color: transparent;
+}
+
+html,
+body {
+	width: 100%;
+	overflow-x: hidden;
+	margin: 0;
+	font-family: "Montserrat";	
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  color: #000;
+  outline: none;
+}
+
+ul,
+li,
+button,
+p {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	outline: none;
+}
