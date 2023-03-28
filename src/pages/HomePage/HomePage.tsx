@@ -33,7 +33,6 @@ const HomePage = () => {
 	const moreBooks = (e: React.MouseEvent<HTMLButtonElement>) => {
 		getBooks({ search, amountBooks, category, sortType });
 	};
-	console.log(isLoading);
 	
 
 	return (
