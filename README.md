@@ -28,14 +28,14 @@ Redux Toolkit (v1.9.3) : state-менеджмент и запросы;
 Sass (v8.0.0) : написание CSS-стилей сайта;
 ```
 
-[![](https://github.com/m-morgunets/test-books-api/screenshots/telegram.png)](https://t.me/m_morgunets)
+[![](/screenshots/telegram.png)](https://t.me/m_morgunets)
 
 ## Скриншоты приложения
 
-![](https://github.com/m-morgunets/test-books-api/screenshots/screenshot-1.png)
+![](/screenshots/screenshot-1.png)
 
 > Главная страница
 
-![](https://github.com/m-morgunets/test-books-api/screenshots/screenshot-2.png)
+![](/screenshots/screenshot-2.png)
 
 > Страница отдельной книги
