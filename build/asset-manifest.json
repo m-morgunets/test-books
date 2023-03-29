@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.085f73fc.css",
-    "main.js": "/static/js/main.cb60f448.js",
-    "static/js/787.be775076.chunk.js": "/static/js/787.be775076.chunk.js",
-    "static/media/backgroundImage.jpg": "/static/media/backgroundImage.827677b1efac442f4f4d.jpg",
-    "static/media/blankBook.png": "/static/media/blankBook.82388f2f14a4c4b3d74d.png",
-    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.317b418ed317e258b173.ttf",
-    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.5885feb264991825e67f.ttf",
-    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.693c527aec0de211945e.ttf",
-    "static/media/Montserrat-Bold.woff": "/static/media/Montserrat-Bold.180ba33d8de7dcfe80a0.woff",
-    "static/media/Montserrat-Regular.woff": "/static/media/Montserrat-Regular.3db65dc4b858f0fed4fb.woff",
-    "static/media/Montserrat-Medium.woff": "/static/media/Montserrat-Medium.d42dad28f6470e5162c2.woff",
-    "static/media/Montserrat-Regular.woff2": "/static/media/Montserrat-Regular.8b56391ed36ea95337c6.woff2",
-    "static/media/Montserrat-Bold.woff2": "/static/media/Montserrat-Bold.cfceaf4e74789fc9df24.woff2",
-    "static/media/Montserrat-Medium.woff2": "/static/media/Montserrat-Medium.d6bbb7c3c86aa8edcd0a.woff2",
-    "index.html": "/index.html",
-    "static/media/search.svg": "/static/media/search.46f83f6bbf60bc904bb85857bf65b5ea.svg",
-    "main.085f73fc.css.map": "/static/css/main.085f73fc.css.map",
-    "main.cb60f448.js.map": "/static/js/main.cb60f448.js.map",
-    "787.be775076.chunk.js.map": "/static/js/787.be775076.chunk.js.map"
+    "main.css": "/test-books-api/static/css/main.18e0c98a.css",
+    "main.js": "/test-books-api/static/js/main.8efa48fd.js",
+    "static/js/787.6c981ab8.chunk.js": "/test-books-api/static/js/787.6c981ab8.chunk.js",
+    "static/media/backgroundImage.jpg": "/test-books-api/static/media/backgroundImage.827677b1efac442f4f4d.jpg",
+    "static/media/blankBook.png": "/test-books-api/static/media/blankBook.82388f2f14a4c4b3d74d.png",
+    "static/media/Montserrat-Regular.ttf": "/test-books-api/static/media/Montserrat-Regular.317b418ed317e258b173.ttf",
+    "static/media/Montserrat-Bold.ttf": "/test-books-api/static/media/Montserrat-Bold.5885feb264991825e67f.ttf",
+    "static/media/Montserrat-Medium.ttf": "/test-books-api/static/media/Montserrat-Medium.693c527aec0de211945e.ttf",
+    "static/media/Montserrat-Bold.woff": "/test-books-api/static/media/Montserrat-Bold.180ba33d8de7dcfe80a0.woff",
+    "static/media/Montserrat-Regular.woff": "/test-books-api/static/media/Montserrat-Regular.3db65dc4b858f0fed4fb.woff",
+    "static/media/Montserrat-Medium.woff": "/test-books-api/static/media/Montserrat-Medium.d42dad28f6470e5162c2.woff",
+    "static/media/Montserrat-Regular.woff2": "/test-books-api/static/media/Montserrat-Regular.8b56391ed36ea95337c6.woff2",
+    "static/media/Montserrat-Bold.woff2": "/test-books-api/static/media/Montserrat-Bold.cfceaf4e74789fc9df24.woff2",
+    "static/media/Montserrat-Medium.woff2": "/test-books-api/static/media/Montserrat-Medium.d6bbb7c3c86aa8edcd0a.woff2",
+    "index.html": "/test-books-api/index.html",
+    "static/media/search.svg": "/test-books-api/static/media/search.46f83f6bbf60bc904bb85857bf65b5ea.svg",
+    "main.18e0c98a.css.map": "/test-books-api/static/css/main.18e0c98a.css.map",
+    "main.8efa48fd.js.map": "/test-books-api/static/js/main.8efa48fd.js.map",
+    "787.6c981ab8.chunk.js.map": "/test-books-api/static/js/787.6c981ab8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.085f73fc.css",
-    "static/js/main.cb60f448.js"
+    "static/css/main.18e0c98a.css",
+    "static/js/main.8efa48fd.js"
   ]
 }

@@ -1,7 +1,6 @@
 {
-  "homepage": "http://m-morgunets.github.io/",
-  "name": "test-task-fyuche",
-  "version": "0.1.0",
+  "name": "test-books-api",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
@@ -22,7 +21,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "set PUBLIC_URL=/test-books-api/&&npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",

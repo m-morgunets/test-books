@@ -7,13 +7,15 @@ import { store } from "./store";
 import { Provider } from "react-redux";
 import { BrowserRouter } from "react-router-dom";
 
+const basename = document.querySelector('base')?.getAttribute('href') ?? '/'
+
 const root = ReactDOM.createRoot(
 	document.getElementById("root") as HTMLElement
 );
 root.render(
 	//<React.StrictMode>
 		<Provider store={store}>
-			<BrowserRouter>
+			<BrowserRouter basename={basename}>
 				<App />
 			</BrowserRouter>
 		</Provider>
