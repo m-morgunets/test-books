@@ -28,7 +28,8 @@ Redux Toolkit (v1.9.3) : state-менеджмент и запросы;
 Sass (v8.0.0) : написание CSS-стилей сайта;
 ```
 
-[![](/screenshots/telegram.png)](https://t.me/m_morgunets)
+## Как связаться со мной:
+[![](/screenshots/telegram.png)](https://t.me/m_morgunets) [![](/screenshots/hh.png)](https://yaroslavl.hh.ru/applicant/resumes/view?resume=e5c06f44ff0bd0a4010039ed1f7a68336e5a66)
 
 ## Скриншоты приложения
 
