@@ -1,5 +1,7 @@
 # Google Books API (React.js)
 
+### Ссылка на GitHub Pages: https://m-morgunets.github.io/test-books-api
+
 ## Что умеет делать приложение
 
 1) Запрос пользователем списка книг по введённой подстроке в текстовом поле 
