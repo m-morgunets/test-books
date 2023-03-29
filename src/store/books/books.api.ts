@@ -43,7 +43,7 @@ export const booksApi = createApi({
 					maxResults: 30,
 					startIndex: amountBooks,
 					orderBy: sortType,
-					key: "AIzaSyDYd2PI0_5gnsqF3w94N7HYXR36Ht6nckQ",
+					key: process.env.REACT_APP_GOOGLE_API_KEY,
 				},
 			}),
 			async onQueryStarted({}, { dispatch, queryFulfilled }) {
