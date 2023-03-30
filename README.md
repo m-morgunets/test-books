@@ -35,10 +35,11 @@ Sass (v8.0.0) : написание CSS-стилей сайта;
 
 ## Скриншоты приложения
 
-![](/screenshots/screenshot-1.png)
-
 > Главная страница
-
-![](/screenshots/screenshot-2.png)
+> 
+> ![](/screenshots/screenshot-1.png)
 
 > Страница отдельной книги
+> 
+> ![](/screenshots/screenshot-2.png)
+
